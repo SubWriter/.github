@@ -25,6 +25,64 @@
         "projectManagement",
         "code"
       ]
+    },
+    {
+      "login": "Firecarr0t",
+      "name": "Firecarr0t",
+      "avatar_url": "https://avatars.githubusercontent.com/u/78146502?v=4",
+      "profile": "https://github.com/Firecarr0t",
+      "contributions": [
+        "code",
+        "design",
+        "review"
+      ]
+    },
+    {
+      "login": "doodthedoodthedood",
+      "name": "PixelPlus",
+      "avatar_url": "https://avatars.githubusercontent.com/u/37311302?v=4",
+      "profile": "https://github.com/doodthedoodthedood",
+      "contributions": [
+        "code",
+        "review"
+      ]
+    },
+    {
+      "login": "lem6ns",
+      "name": "cloud",
+      "avatar_url": "https://avatars.githubusercontent.com/u/62519659?v=4",
+      "profile": "https://github.com/lem6ns",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "tjschool",
+      "name": "tjschool",
+      "avatar_url": "https://avatars.githubusercontent.com/u/45406017?v=4",
+      "profile": "https://github.com/tjschool",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "GabiBrawl",
+      "name": "GabiBrawl",
+      "avatar_url": "https://avatars.githubusercontent.com/u/85069997?v=4",
+      "profile": "https://github.com/GabiBrawl",
+      "contributions": [
+        "design"
+      ]
+    },
+    {
+      "login": "Nudelsuppe42",
+      "name": "Nudesuppe42",
+      "avatar_url": "https://avatars.githubusercontent.com/u/67996941?v=4",
+      "profile": "https://github.com/Nudelsuppe42",
+      "contributions": [
+        "code",
+        "design"
+      ]
     }
   ],
   "contributorsPerLine": 7,
@@ -32,5 +90,6 @@
   "projectOwner": "TheSubtitlePlug",
   "repoType": "github",
   "repoHost": "https://github.com",
-  "skipCi": true
+  "skipCi": true,
+  "commitConvention": "none"
 }
