@@ -1,6 +1,6 @@
 <div align="center">
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 # TheSubtitlePlug
@@ -36,6 +36,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tr>
     <td align="center"><a href="https://github.com/subtitleplug"><img src="https://avatars.githubusercontent.com/u/103958535?v=4?s=100" width="100px;" alt=""/><br /><sub><b>subtitleplug</b></sub></a><br /><a href="#infra-subtitleplug" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="#projectManagement-subtitleplug" title="Project Management">📆</a> <a href="https://github.com/TheSubtitlePlug/.github/commits?author=subtitleplug" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/florisvannoyen"><img src="https://avatars.githubusercontent.com/u/52802514?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Floris Van Noyen</b></sub></a><br /><a href="#projectManagement-florisvannoyen" title="Project Management">📆</a> <a href="https://github.com/TheSubtitlePlug/.github/commits?author=florisvannoyen" title="Code">💻</a></td>
   </tr>
 </table>
 
