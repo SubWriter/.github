@@ -9,17 +9,6 @@ _Generating automatic subtitles for your video._
 
 <!-- markdownlint-restore -->
 
-  - [BuildTheEarth](#buildtheearth)
-  - [Bot](#bot)
-  - [Rewrite](#rewrite)
-  - [Development](#development)
-    - [Contributors](#contributors)
-    - [Contributing](#contributing)
-      - [Setup](#setup)
-      - [Standards](#standards)
-  - [Changelog](#changelog)
-  - [License](#license)
-
 ## TheSubtitlePlug
 ### Contributors
 
