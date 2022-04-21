@@ -15,6 +15,16 @@
         "projectManagement",
         "code"
       ]
+    },
+    {
+      "login": "florisvannoyen",
+      "name": "Floris Van Noyen",
+      "avatar_url": "https://avatars.githubusercontent.com/u/52802514?v=4",
+      "profile": "https://github.com/florisvannoyen",
+      "contributions": [
+        "projectManagement",
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
