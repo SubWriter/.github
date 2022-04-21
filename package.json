@@ -1,0 +1,25 @@
+{
+  "devDependencies": {
+    "all-contributors-cli": "^6.20.0"
+  },
+  "name": "github",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {},
+  "scripts": {
+    "add": "all-contributors add",
+    "ckeck": "all-contributors check",
+    "generate": "all-contributors generate"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheSubtitlePlug/.github.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheSubtitlePlug/.github/issues"
+  },
+  "homepage": "https://github.com/TheSubtitlePlug/.github#readme",
+  "description": ""
+}
