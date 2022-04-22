@@ -12,7 +12,7 @@ _Generating automatic subtitles for your video._
 ## Contributors ✨
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-7-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-8-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 Thanks goes to these people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
 
@@ -28,6 +28,9 @@ Thanks goes to these people ([emoji key](https://allcontributors.org/docs/en/emo
     <td align="center"><a href="https://github.com/lem6ns"><img src="https://avatars.githubusercontent.com/u/62519659?v=4?s=100" width="100px;" alt=""/><br /><sub><b>cloud</b></sub></a><br /><a href="https://github.com/TheSubtitlePlug/.github/commits?author=lem6ns" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/GabiBrawl"><img src="https://avatars.githubusercontent.com/u/85069997?v=4?s=100" width="100px;" alt=""/><br /><sub><b>GabiBrawl</b></sub></a><br /><a href="#design-GabiBrawl" title="Design">🎨</a></td>
     <td align="center"><a href="https://github.com/Nudelsuppe42"><img src="https://avatars.githubusercontent.com/u/67996941?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Nudesuppe42</b></sub></a><br /><a href="https://github.com/TheSubtitlePlug/.github/commits?author=Nudelsuppe42" title="Code">💻</a> <a href="#design-Nudelsuppe42" title="Design">🎨</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/B3nnjoe"><img src="https://avatars.githubusercontent.com/u/95551073?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Benjamin Lindberg</b></sub></a><br /><a href="#question-B3nnjoe" title="Answering Questions">💬</a></td>
   </tr>
 </table>
 
