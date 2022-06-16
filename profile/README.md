@@ -30,7 +30,7 @@ Thanks goes to these people ([emoji key](https://allcontributors.org/docs/en/emo
     <td align="center"><a href="https://github.com/Nudelsuppe42"><img src="https://avatars.githubusercontent.com/u/67996941?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Nudelsuppe42</b></sub></a><br /><a href="https://github.com/TheSubtitlePlug/.github/commits?author=Nudelsuppe42" title="Code">💻</a> <a href="#design-Nudelsuppe42" title="Design">🎨</a></td>
   </tr>
   <tr>
-    <td align="center"><a href="https://github.com/B3nnjoe"><img src="https://avatars.githubusercontent.com/u/95551073?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Benjamin Lindberg</b></sub></a><br /><a href="#question-B3nnjoe" title="Answering Questions">💬</a> <a href="#ideas-B3nnjoe" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/TheSubtitlePlug/.github/commits?author=B3nnjoe" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/B3nnjoe"><img src="https://avatars.githubusercontent.com/u/95551073?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Bennjoe</b></sub></a><br /><a href="#question-B3nnjoe" title="Answering Questions">💬</a> <a href="#ideas-B3nnjoe" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/TheSubtitlePlug/.github/commits?author=B3nnjoe" title="Code">💻</a></td>
   </tr>
 </table>
 
