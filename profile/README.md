@@ -4,7 +4,12 @@
 
 _Generating automatic subtitles for your video._
 
+> **Warning**
+> SubtitleWriter has been archived as of 02/2023. Thank you everyone for your work, it has been a pleasure.
+> Continued at [BetterSubtitles](https://github.com/bettersubtitles)
 
+  
+  
 <!-- markdownlint-restore -->
 
 ## Contributors ✨
