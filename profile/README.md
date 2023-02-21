@@ -1,6 +1,6 @@
 <div align="center">
 
-# TheSubtitlePlug
+# SubtitleWriter
 
 _Generating automatic subtitles for your video._
 
